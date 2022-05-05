@@ -1,0 +1,12 @@
+**Database Name: restaurant_ci**
+
+
+**Admin Login Details**
+
+Email	: admin@gmail.com
+Password: password0101
+
+**Employee Login Details**
+
+Email	: veronica@gmail.com
+Password: password
