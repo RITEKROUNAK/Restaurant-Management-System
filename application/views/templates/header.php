@@ -95,7 +95,7 @@
 
 
 </head>
-<body class="hold-transition skin-green sidebar-mini">
+<body class="hold-transition skin-red sidebar-mini">
 <div class="wrapper">
 
   
